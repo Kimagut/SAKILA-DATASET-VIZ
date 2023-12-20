@@ -10,4 +10,11 @@ As the analyst/BI expert, you are required to answer the following questions in 
 3. What is the total number of Action Movies Rented
 4. In what Month was Horror Movies rented the most
 5. Which customer generated the most revenue.
-![Alt Text](image_url)
+
+
+![SAKILA DASHBOARD](https://github.com/Kimagut/SAKILA-DATASET-VIZ/blob/main/Viz2.JPG?raw=true)
+
+
+
+
+In model view a schema of the database and the list of tables for the project.
