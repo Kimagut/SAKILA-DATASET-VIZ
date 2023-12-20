@@ -17,4 +17,6 @@ As the analyst/BI expert, you are required to answer the following questions in 
 
 
 
-In model view a schema of the database and the list of tables for the project.
+The follwing is a model view a schema of the database and the list of tables for the project.
+![SCHEMA](image_url)
+
