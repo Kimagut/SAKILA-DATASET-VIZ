@@ -18,5 +18,5 @@ As the analyst/BI expert, you are required to answer the following questions in 
 
 
 The follwing is a model view a schema of the database and the list of tables for the project.
-![SCHEMA](image_url)
+![SCHEMA](https://github.com/Kimagut/SAKILA-DATASET-VIZ/blob/main/1691778417371.png?raw=true)
 
